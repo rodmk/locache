@@ -665,4 +665,4 @@
     // Attach the locache namespace to the global window object.
     root.locache = locache;
 
-}).call(this);
+}).call(window);
